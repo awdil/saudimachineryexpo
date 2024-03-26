@@ -9,7 +9,7 @@
                 <div class="socil-icon-wrp">
                     <ul>
                         <li>
-                            <a href="https://www.facebook.com/SaudiMachineryExpo" target="_blank" class="icon">
+                            <a href="https://www.facebook.com/saudimachineryexpo" target="_blank" class="icon">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
                         </li>
@@ -20,17 +20,17 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.youtube.com/@SaudiMachineryExpo" target="_blank" class="icon">
+                            <a href="https://www.youtube.com/@saudimachineryexpo" target="_blank" class="icon">
                                 <i class="fab fa-youtube "></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.saudimachineryexpo.com/eventical" class="no-utm icon">
+                            <a href="https://www.gulfsaudiexpo.com/eventical" class="no-utm icon">
                                 <i class="fas fa-calendar-alt"></i>
                             </a>
                         </li>
                         <li>
-                            <a class="icon search-icon" href="https://www.saudimachineryexpo.com/#"><i
+                            <a class="icon search-icon" href="https://www.gulfsaudiexpo.com/#"><i
                                     class="fas fa-search"></i></a>
                         </li>
                     </ul>
@@ -40,7 +40,7 @@
         <div class="fixed-popup">
             <div class="port-folio-close">
                 <a class="close-porfolio">
-                    <img data-src="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/port-flio-close.png"
+                    <img data-src="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/port-flio-close.png"
                         width="20" height="20" alt="close" src="assets/port-flio-close.png" class=" lazyloaded">
                 </a>
             </div>

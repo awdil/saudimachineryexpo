@@ -101,20 +101,20 @@
     <link rel="stylesheet" href="{{ theme_asset('css/fpy0fva.css') }}">
     <!-- favicons -->
     <link rel="apple-touch-icon" sizes="57x57"
-        href="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/apple-icon-57x57.png">
+        href="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/apple-icon-57x57.png">
     <link rel="icon" type="image/png" sizes="60x60"
-        href="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/apple-icon-60x60.png">
+        href="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/apple-icon-60x60.png">
     <link rel="icon" type="image/png" sizes="96x96"
-        href="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/favicon-96x96.png">
+        href="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16"
-        href="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/favicon-16x16.png">
+        href="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/favicon-16x16.png">
 
-    <link rel="mask-icon" href="https://www.saudimachineryexpo.com/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="mask-icon" href="https://www.gulfsaudiexpo.com/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
     <link rel="manifest"
-        href="https://www.saudimachineryexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/manifest.json">
+        href="https://www.gulfsaudiexpo.com/wp-content/themes/big5-global-2023/assets/images/favicons/25/manifest.json">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" id="saudimachineryexpo-css" href="{{ theme_asset('css/saudimachineryexpo-style.css') }}" media="all">
     <link rel="stylesheet" href="{{ theme_asset('css/all.min.css') }}" media="all">
@@ -154,7 +154,7 @@
     <link rel="stylesheet" href="{{ theme_asset('js/plyr.css')}}">
     <script src="{{ theme_asset('js/wp-emoji-release.min.js')}}" defer=""></script>
 </head>
-<body class="home">
+<body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-325 normal-page layout3-body fl-builder fl-builder-breakpoint-default loaded">
 
 	<!--*******************
         Preloader start
@@ -166,7 +166,7 @@
 	<div class="">
         <div class="top-wrap  layou3header float-panel">
             <!-- header -->
-            @include('elements.top-outer')
+            @include('elements.header')
             <!-- header END -->
         </div>
 	
@@ -221,12 +221,12 @@
     <script src="{{ theme_asset('js/speaker_manual.js') }}" id="speaker-manual-js-js"></script>
     <script id="big5-ajax-scripts-js-extra">
         var ajax_params = {
-            "ajaxurl": "https://www.saudimachineryexpo.com/wp-admin/admin-ajax.php",
+            "ajaxurl": "https://www.gulfsaudiexpo.com/wp-admin/admin-ajax.php",
             "security": "9ca6bd4707",
-            "homeUrl": "https://www.saudimachineryexpo.com/"
+            "homeUrl": "https://www.gulfsaudiexpo.com/"
         };
         var ajax_params = {
-            "ajaxurl": "https://www.saudimachineryexpo.com/wp-admin/admin-ajax.php",
+            "ajaxurl": "https://www.gulfsaudiexpo.com/wp-admin/admin-ajax.php",
             "product_category_placeholder": "Please Select Product Category",
             "stand_number_placeholder": "Please Select a Stand Number",
             "country_placeholder": "Please Select a Country",
@@ -293,7 +293,7 @@
                 "cancelled": "Cancelled"
             },
             "vars": {
-                "images_url": "https://www.saudimachineryexpo.com/wp-content/plugins/gravityforms/images"
+                "images_url": "https://www.gulfsaudiexpo.com/wp-content/plugins/gravityforms/images"
             }
         };
     </script>
@@ -302,7 +302,7 @@
     <script defer="defer" src="{{ theme_asset('js/utils.min.js') }}" id="gform_gravityforms_utils-js"></script>
     <script defer="defer" src="{{ theme_asset('js/vendor-theme.min.js') }}" id="gform_gravityforms_theme_vendors-js"></script>
     <script id="gform_gravityforms_theme-js-extra">
-        var gform_theme_config = { "common": { "form": { "honeypot": { "version_hash": "59ea1a340526b8b39a8d696b8a6fd386" } } }, "hmr_dev": "", "public_path": "https:\/\/www.saudimachineryexpo.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/" };
+        var gform_theme_config = { "common": { "form": { "honeypot": { "version_hash": "59ea1a340526b8b39a8d696b8a6fd386" } } }, "hmr_dev": "", "public_path": "https:\/\/www.gulfsaudiexpo.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/" };
     </script>
     <script defer="defer" src="{{ theme_asset('js/scripts-theme.min.js') }}" id="gform_gravityforms_theme-js"></script>   
 </body>

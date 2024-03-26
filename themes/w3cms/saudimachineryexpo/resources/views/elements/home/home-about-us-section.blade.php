@@ -5,102 +5,54 @@ $data=DzHelper::getConfigDataByName('Home.aboutRightContent');
 $unserializeData=unserialize($data->params);
 // dd($unserializeData);
 ?>
-<section class="home-aboutus">
-	<div class="container">
-		<div class="home-aboutus-inner">
-			<div class="about-gallary">
-				<figure class=" figure-round-border">
-					<img src="{{theme_asset('img/eventum-img33.jpg')}}" alt="">
-				</figure>
-				<figure class=" figure-round-border">
-					<img src="{{theme_asset('img/eventum-img35.jpg')}}" alt="">
-				</figure>
-				<figure class=" figure-round-border">
-					<img src="{{theme_asset('img/eventum-img34.jpg')}}" alt="">
-				</figure>
-			</div>
-			<div class="home-about-right">
-				<div class="about-content">
-					<figure class="about-top-right-img figure-round-border">
-						<img src="{{theme_asset('img/everest-opening-img-36.jpg')}}" alt="">
-					</figure>
-					<div class="section-head">
-						<span class="section-sub-title ">{{config('Home.aboutRightContent')}}</span>
-						<h3 class="section-title">
-						{{$unserializeData['sectionTitle']}}
-						</h3>
-						<p class="section-paragraph">
-						{{$unserializeData['sectionParagraph']}}
-						</p>
-					</div>
-				</div>
-				<div class="about-detail">
-					<figure class="about-bottom-right-img figure-round-border">
-						<img src="{{theme_asset('img/eventum-img37.jpg')}}" alt="">
-					</figure>
-					<div class="about-detail-inner">
-						<div class="about-list">
-							<ul>
-								<li>
-									<i aria-hidden="true" class="icon icon-checkmark-circle"></i>
-									<span>
-									{{$unserializeData['aboutFirstlist']}}
-									</span>
-								</li>
-								<li>
-									<i aria-hidden="true" class="icon icon-checkmark-circle"></i>
-									<span>
-									{{$unserializeData['aboutSecondtlist']}}
-									</span>
-								</li>
-							</ul>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-jwpik9md3nut fl-row-default-height fl-row-align-center" data-node="jwpik9md3nut">
+	<div class="fl-row-content-wrap">
+		<div class="fl-row-content fl-row-full-width fl-node-content">
+
+			<div class="fl-col-group fl-node-4q2a7dwovfs8" data-node="4q2a7dwovfs8">
+				<div class="fl-col fl-node-n63qycjau057" data-node="n63qycjau057">
+					<div class="fl-col-content fl-node-content">
+						<div class="fl-module fl-module-intro-two-columns fl-node-bozwm8vk0jsx" data-node="bozwm8vk0jsx">
+							<div class="fl-module-content fl-node-content">
+								<section class="two_col_section  none bg-brand_color_2">
+									<div class="container">
+										<div class="section-space">
+											<div class="two_col_wrap">
+												<div class="two_col_content from-bottom" data-scroll="in">
+													<div class="wp-content ">
+														<h2 style="font-weight: 900 !important;">The most influential event</h2>
+														<p>The organizer of the exhibition has established a strategic partnership with the Saudi Federation, Riyadh, Jeddah and other major chamber and business associations. The exhibition is Saudi Arabia's largest industrial exhibition, accurate match-making as the core, is committed to build bridge of economic, trade and cooperation. The exhibition will be the best choice for enterprises to explore the market of Saudi Arabia and the Middle Eastern countries.</p>
+													</div>
+													<div class="two_col_btn">
+														<div class="two_col_btn_link">
+															<a href="" target="_blank" class="primary-btn cta-primary-with-white">
+																DOWNLOAD BROCHURE </a>
+														</div>
+														<div class="two_col_btn_link">
+															<a href="" target="_blank" class="primary-btn cta-white-outline">
+																BOOK YOUR STAND </a>
+														</div>
+													</div>
+												</div>
+												<div class="two_col_media with-boxshadow">
+													<div class="two_col_media_inner" data-aos="fade-left">
+														<img class="lazy loaded" fetchpriority="high" decoding="async" src="{{theme_asset('img/promo.jpg')}}" data-src="" alt="Image" width="563" height="348" data-was-processed="true">
+														<a href="https://youtu.be/kwHWoyL7tqQ" class="play-btn to-pop " aria-label="video-play-icon">
+															<span class="play-icon">
+																<i class="fa fa-play" aria-hidden="true"></i>
+															</span>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</section>
+							</div>
 						</div>
-						
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="home-about-place">
-			<div class="place-content">
-				<div class="place-icon">
-					<a href="event-detail.html">
-						<i aria-hidden="true" class="fas fa-map-marker-alt"></i>
-					</a>
-				</div>
-				<div class="place-detail">
-					<h5 class="place-title">WHERE IS THE EVENT :</h5>
-					<span class="place-discription">
-						{{config('Home.eventLocation')}}
-					</span>
-				</div>
-			</div>
-			<div class="place-content place-time">
-				<div class="place-icon">
-					<a href="event-detail.html">
-						<i aria-hidden="true" class="far fa-calendar-alt"></i>
-					</a>
-				</div>
-				<div class="place-detail">
-					<h5 class="place-title">WHEN IS THE EVENT :</h5>
-					<span class="place-discription">
-						<?php
-						$eventStartDate = new DateTime(config('Home.eventStart'));
-						$eventEndDate = new DateTime(config('Home.eventEnd'));
-						
-						// Format the dates
-						$formattedStartDate = $eventStartDate->format('l'); // Day of the week (Sunday)
-						$formattedEndDate = $eventEndDate->format('l');     // Day of the week (Wednesday)
-						
-						// Format the date range
-						$dateRange = $eventStartDate->format('j F Y') . ' to ' . $eventEndDate->format('j F Y');
-						
-						// Combine the formatted dates and date range
-						$result = " ($formattedStartDate to $formattedEndDate)  $dateRange";
-						?>
-						{{$result}}
-					</span>
 				</div>
 			</div>
 		</div>
 	</div>
-</section>
+</div>

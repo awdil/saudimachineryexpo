@@ -5,7 +5,15 @@
         <!-- Page Detail -->
 
         @if (Str::contains($page->slug, 'home'))
-            
+        @include('elements.home.home-main-banner')
+        @include('elements.home.home-time-counter-section')
+        @include('elements.home.home-about-us-section')
+        @include('elements.home.home-progress-section')
+        @include('elements.home.home-event-section')
+        @include('elements.home.home-catalogues-section')
+        @include('elements.home.home-schedule-section')
+        @include('elements.home.home-gallery-section')
+        @include('elements.home.home-gallery-section-ajax')
         @elseif(Str::contains($page->slug, 'contact-us'))
             @include('elements.common-banner-inner-pages')
         @elseif(Str::contains($page->slug, 'about-us'))
@@ -54,7 +62,7 @@
                 <!-- Child Pages Detail End -->
                 @if (optional($page->child_pages)->isNotEmpty())
                 <div class="container">
-                    <h4>{{ __('Related Pages') }}</h4>
+                    
                     <ul class="related-pages p-l m-b30">
                         @forelse($page->child_pages as $child_page)
                         <li>

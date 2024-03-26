@@ -5,12 +5,12 @@
  }
 
  .banner_btn-arrow-group .banner_btn_arrow {
-     border-top: 0.5px solid #e6001f;
+     border-top: 0.5px solid #70bc63;
  }
 
  .banner_btn-arrow-group .banner_btn .arrow-icon {
      background:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  /* body .slick-track{
@@ -25,7 +25,7 @@
 
  .footer-col-wrap .footer-col h4 {
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  .footer-col ul li a,
@@ -38,7 +38,7 @@
 
  .footer-social-media-icons li a {
      background:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  .footer-social-media-icons li i {
@@ -48,7 +48,7 @@
 
  .admission-free-social-icons h4 {
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  /* footer background ends*/
@@ -65,9 +65,9 @@
  body .footer_links .primary-btn.cta-primary,
  body .footer_links .primary-btn.cta-secondary:hover,
  body .footer_links .primary-btn.cta-primary-outline:hover {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color: #000;
  }
 
@@ -101,18 +101,18 @@
  body .form_submit-cta-white .primary-btn:hover,
  body .footer_links .primary-btn.cta-white:hover {
      background:
-         #e6001f;
+         #70bc63;
      color: #ffffff;
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
  }
 
  body .primary-btn.cta-primary-outline,
  body .form_submit-cta-primary-outline .primary-btn,
  body .footer_links .primary-btn.cta-primary-outline {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background: transparent;
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .primary-btn.cta-secondary-outline,
@@ -136,35 +136,35 @@
  body .form_submit-cta-primary-with-white .primary-btn,
  body .landing-form.form_submit-cta-primary-with-white .primary-btn,
  body .footer_links .primary-btn.cta-primary-with-white {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color: #ffffff;
  }
 
  body .primary-btn.cta-primary-with-white:hover,
  body .form_submit-cta-primary-with-white .primary-btn:hover,
  body .footer_links .primary-btn.cta-primary-with-white:hover {
-     border: 1px solid #e6001f !important;
+     border: 1px solid #70bc63 !important;
      background: transparent !important;
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  body .primary-btn.cta-primary-outline-white-text,
  body .footer_links .primary-btn.cta-primary-outline-white-text {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color: #ffffff;
  }
 
  body .primary-btn.cta-primary-outline-white-text:hover,
  body .footer_links .primary-btn.cta-primary-outline-white-text:hover {
-     border: 1px solid #e6001f !important;
+     border: 1px solid #70bc63 !important;
      background: transparent !important;
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  /* cta-secondary-bg-with-white */
@@ -209,9 +209,9 @@
  body .primary-btn.cta-primary-with-secondary,
  body .form_submit-cta-primary-with-secondary .primary-btn,
  body .footer_links .primary-btn.cta-primary-with-secondary {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color:
          #101010;
  }
@@ -219,55 +219,55 @@
  body .primary-btn.cta-primary-with-secondary:hover,
  body .form_submit-cta-primary-with-secondary .primary-btn:hover,
  body .footer_links .primary-btn.cta-primary-with-secondary:hover {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background: transparent;
      color:
-         #e6001f;
+         #70bc63;
  }
 
  /* cta-Special-with-white-text */
  body .primary-btn.cta-special-white,
  body .form_submit-cta-special-white .primary-btn,
  body .footer_links .primary-btn.cta-special-white {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color: #ffffff;
  }
 
  body .primary-btn.cta-special-white:hover,
  body .form_submit-cta-special-white .primary-btn:hover,
  body .footer_links .primary-btn.cta-special-white:hover {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background: transparent;
      color:
-         #e6001f;
+         #70bc63;
  }
 
  /* cta-Special-with-back-text */
  body .primary-btn.cta-special-black,
  body .form_submit-cta-special-black .primary-btn,
  body .footer_links .primary-btn.cta-special-black {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background:
-         #e6001f;
+         #70bc63;
      color: #000000;
  }
 
  body .primary-btn.cta-special-black:hover,
  body .form_submit-cta-special-black .primary-btn:hover,
  body .footer_links .primary-btn.cta-special-black:hover {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
      background: transparent;
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body #return-to-top,
  body .gform_wrapper [type=radio]:checked+label:after,
  body .gform_wrapper [type=radio]:not(:checked)+label:after {
      background:
-         #e6001f;
+         #70bc63;
  }
 
  body #return-to-top:hover {
@@ -289,7 +289,7 @@
  body .gform_wrapper [type=checkbox]:checked+label:after,
  body .gform_wrapper [type=checkbox]:not(:checked)+label:after {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .arrow-common .slick-arrow {
@@ -322,16 +322,16 @@
  }
 
  body .wp-content blockquote {
-     border-left: .25rem solid #e6001f;
+     border-left: .25rem solid #70bc63;
  }
 
  body.rtl .wp-content blockquote {
-     border-right: .25rem solid #e6001f;
+     border-right: .25rem solid #70bc63;
  }
 
  body .wp-content blockquote:after {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .product_box_wrap.arrow-common .slick-arrow:before {
@@ -344,14 +344,14 @@
 
  .if-mobdots-common .slick-arrow:hover:before {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  /* Link styles */
  body a.primary_link,
  body .footer-col-wrap .footer-col ul li a:hover {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body a.secondary_link {
@@ -374,12 +374,12 @@
 
  body .view-all {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .dmg-menu ul li a:hover {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  /* Layout 3 menu highlight */
@@ -419,7 +419,7 @@
  @media only screen and (min-width: 992px) {
      body .layou3header .mainnav>ul>li.highlight {
          background:
-             #e6001f !important;
+             #70bc63 !important;
          color: #000000 !important;
      }
 
@@ -434,12 +434,12 @@
      body .layou3header .mainnav>ul>li.highlight:hover a {
          background: #ffffff;
          color:
-             #e6001f !important;
+             #70bc63 !important;
      }
 
      body .layou3header .fixed .mainnav>ul>li.highlight {
          background:
-             #e6001f;
+             #70bc63;
          color: #000000;
      }
 
@@ -463,13 +463,13 @@
      body .mainnav ul li a:hover,
      body .mainnav ul li.current-menu-item>a {
          background-color:
-             #e6001f;
+             #70bc63;
      }
 
      body .mainnav ul li.highlight a,
      body .mainnav ul li.sub-menu-highlight a {
          background:
-             #e6001f;
+             #70bc63;
      }
  }
 
@@ -479,7 +479,7 @@
      body .fixed .mainnav>ul>li>a:hover,
      body .fixed .mainnav>ul>li:hover span {
          color:
-             #e6001f
+             #70bc63
      }
 
      /* body .fixed .mainnav>ul>li:hover a,
@@ -495,13 +495,13 @@
 
      body .fixed .mainnav>ul>li.highlight {
          background:
-             #e6001f;
+             #70bc63;
          color: #010101;
      }
 
      body .fixed .mainnav>ul>li.highlight:hover {
          background:
-             #e6001f;
+             #70bc63;
          color: #ffffff;
      }
 
@@ -529,51 +529,51 @@
      body .mainnav>ul>li .sub-menu li a:hover,
      body .mainnav>ul>li .sub-menu li.highlight a:hover {
          background-color:
-             #e6001f;
+             #70bc63;
          color: #ffffff;
      }
 
      body .mainnav>ul>li .sub-menu li.highlight a {
          background:
-             #e6001f;
+             #70bc63;
      }
 
      body .mainnav>ul>li.highlight a {
          color:
-             #e6001f;
+             #70bc63;
      }
  }
 
  body .error-sub-head {
      background-color:
-         #e6001f;
+         #70bc63;
  }
 
  body .three-col .three-col-box .content a,
  body .visit-link,
  .visit-link a {
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  body .search-section-404 .form-group input {
-     border: 1px solid #e6001f;
+     border: 1px solid #70bc63;
  }
 
  body .pagination-search ul li.current a,
  body .pagination-search ul li a:hover {
      background:
-         #e6001f;
+         #70bc63;
  }
 
  body .yelp-footer-right p a:hover {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .dmg-gf-forms .dmg-privacy-statment a {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .dmg-gf-forms .dmg-privacy-statment a:hover {
@@ -621,13 +621,13 @@
 
  body .arrow-common .slick-arrow:hover {
      background:
-         #e6001f;
+         #70bc63;
  }
 
  /* Hero section */
  body .banner_tag {
      background-color:
-         #e6001f
+         #70bc63
  }
 
  body .banner_content h1 {
@@ -669,7 +669,7 @@
 
  body .starts_row {
      background:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  body .starts_counting,
@@ -702,13 +702,13 @@
 
  body .gallery-isotope .g-list ul li.active {
      background:
-         #e6001f;
+         #70bc63;
  }
 
  @media screen and (min-width: 1025px) {
      body .gallery-isotope .g-list ul li:hover {
          background-color:
-             #e6001f;
+             #70bc63;
      }
  }
 
@@ -729,7 +729,7 @@
  body.post-type-archive-gallery .plyr__control--overlaid,
  body.post-type-archive-gallery .plyr--video .plyr__control[aria-expanded=true] {
      background:
-         #e6001f;
+         #70bc63;
  }
 
  body .common-module.sponsor-section .common-head p,
@@ -759,13 +759,13 @@
  body .innerpage-sponsors-outer-list ul li:hover,
  body .innerpage-sponsors-outer-list ul li.active {
      background:
-         #e6001f;
+         #70bc63;
      color: #fff;
  }
 
  body .innerpage-sponsors .read-more {
      color:
-         #e6001f;
+         #70bc63;
  }
 
  body .innerpage-sponsors .read-more:hover {
@@ -775,7 +775,7 @@
 
  body .fl-module-content .faq-accordion-wrap .accordion-item .wp-content p a {
      color:
-         #e6001f !important;
+         #70bc63 !important;
  }
 
  @-webkit-keyframes pulse-play {
@@ -921,10 +921,10 @@
  <title>Saudi Machinery Expo | 2 - 4 September 2024,
  Riyadh International Convention &amp;
  Exhibition Center</title><meta name="description"
- content="The Saudi Machinery Expo is the most influential event for the machinery industry in Saudi Arabia, showcasing the latest innovations and technologies in the industry. Discover what this event has to offer for the Saudi construction ."><link rel="canonical" href="https://www.saudimachineryexpo.com/"><meta property="og:locale" content="en_US"><meta property="og:type" content="website"><meta property="og:title"
+ content="The Saudi Machinery Expo is the most influential event for the machinery industry in Saudi Arabia, showcasing the latest innovations and technologies in the industry. Discover what this event has to offer for the Saudi construction ."><link rel="canonical" href="https://www.gulfsaudiexpo.com/"><meta property="og:locale" content="en_US"><meta property="og:type" content="website"><meta property="og:title"
  content="Saudi Machinery Expo | 2 - 4 September 2024, Riyadh International Convention &amp; Exhibition Center"><meta property="og:description"
- content="The Saudi Machinery Expo is the most influential event for the machinery industry in Saudi Arabia, showcasing the latest innovations and technologies in the industry. Discover what this event has to offer for the Saudi construction ."><meta property="og:url" content="https://www.saudimachineryexpo.com/"><meta property="og:site_name" content="Saudi Machinery Expo"><meta property="article:modified_time" content="2024-03-12T10:31:38+00:00"><meta property="og:image"
- content="https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/jpeg"><meta name="twitter:card" content="summary_large_image"><script type="application/ld+json"
+ content="The Saudi Machinery Expo is the most influential event for the machinery industry in Saudi Arabia, showcasing the latest innovations and technologies in the industry. Discover what this event has to offer for the Saudi construction ."><meta property="og:url" content="https://www.gulfsaudiexpo.com/"><meta property="og:site_name" content="Saudi Machinery Expo"><meta property="article:modified_time" content="2024-03-12T10:31:38+00:00"><meta property="og:image"
+ content="https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/jpeg"><meta name="twitter:card" content="summary_large_image"><script type="application/ld+json"
 
  class="yoast-schema-graph"> {
 
@@ -932,36 +932,36 @@
      "@graph":[ {
 
          "@type":"WebPage",
-         "@id":"https://www.saudimachineryexpo.com/",
-         "url":"https://www.saudimachineryexpo.com/",
+         "@id":"https://www.gulfsaudiexpo.com/",
+         "url":"https://www.gulfsaudiexpo.com/",
          "name":"Saudi Machinery Expo | 2 - 4 September 2024, Riyadh International Convention & Exhibition Center",
          "isPartOf": {
-             "@id": "https://www.saudimachineryexpo.com/#website"
+             "@id": "https://www.gulfsaudiexpo.com/#website"
          }
 
          ,
          "primaryImageOfPage": {
-             "@id": "https://www.saudimachineryexpo.com/#primaryimage"
+             "@id": "https://www.gulfsaudiexpo.com/#primaryimage"
          }
 
          ,
          "image": {
-             "@id": "https://www.saudimachineryexpo.com/#primaryimage"
+             "@id": "https://www.gulfsaudiexpo.com/#primaryimage"
          }
 
          ,
-         "thumbnailUrl":"https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg",
+         "thumbnailUrl":"https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg",
          "datePublished":"2022-02-16T12:56:52+00:00",
          "dateModified":"2024-03-12T10:31:38+00:00",
          "description":"The Saudi Machinery Expo is the most influential event for the machinery industry in Saudi Arabia, showcasing the latest innovations and technologies in the industry. Discover what this event has to offer for the Saudi construction .",
          "breadcrumb": {
-             "@id": "https://www.saudimachineryexpo.com/#breadcrumb"
+             "@id": "https://www.gulfsaudiexpo.com/#breadcrumb"
          }
 
          ,
          "inLanguage":"en-US",
          "potentialAction":[ {
-             "@type": "ReadAction", "target":["https://www.saudimachineryexpo.com/"]
+             "@type": "ReadAction", "target":["https://www.gulfsaudiexpo.com/"]
          }
 
          ]
@@ -969,14 +969,14 @@
 
      ,
      {
-     "@type": "ImageObject", "inLanguage":"en-US", "@id":"https://www.saudimachineryexpo.com/#primaryimage", "url":"https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg", "contentUrl":"https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg", "width":1200, "height":630
+     "@type": "ImageObject", "inLanguage":"en-US", "@id":"https://www.gulfsaudiexpo.com/#primaryimage", "url":"https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg", "contentUrl":"https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/02/SME-OG.jpg", "width":1200, "height":630
  }
 
  ,
  {
 
  "@type":"BreadcrumbList",
- "@id":"https://www.saudimachineryexpo.com/#breadcrumb",
+ "@id":"https://www.gulfsaudiexpo.com/#breadcrumb",
  "itemListElement":[ {
      "@type": "ListItem", "position":1, "name":"Home"
  }
@@ -986,12 +986,12 @@
 
  ,
  {
- "@type": "WebSite", "@id":"https://www.saudimachineryexpo.com/#website", "url":"https://www.saudimachineryexpo.com/", "name":"Saudi Machinery Expo", "description":"Empowering Saudi Arabia&#039;s factories with future-ready solutions", "potentialAction":[ {
+ "@type": "WebSite", "@id":"https://www.gulfsaudiexpo.com/#website", "url":"https://www.gulfsaudiexpo.com/", "name":"Saudi Machinery Expo", "description":"Empowering Saudi Arabia&#039;s factories with future-ready solutions", "potentialAction":[ {
 
      "@type":"SearchAction",
      "target": {
          "@type":"EntryPoint",
-         "urlTemplate":"https://www.saudimachineryexpo.com/?s={search_term_string}"
+         "urlTemplate":"https://www.gulfsaudiexpo.com/?s={search_term_string}"
      }
 
      ,
@@ -1012,7 +1012,7 @@
      "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
      "svgExt": ".svg",
      "source": {
-         "concatemoji": "https:\/\/www.saudimachineryexpo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"
+         "concatemoji": "https:\/\/www.gulfsaudiexpo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"
      }
  }
 
@@ -2676,7 +2676,7 @@
  }
 
  .fl-node-qvd7g0k9l6sz .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-qvd7g0k9l6sz .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -2738,7 +2738,7 @@
  }
 
  .fl-node-el7sah2im01j .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-el7sah2im01j .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -2804,7 +2804,7 @@
  }
 
  .fl-node-bozwm8vk0jsx .fl-module-content .two_col_section .two_col_media a.play-btn {
-     background-color: #e6001f;
+     background-color: #70bc63;
  }
 
  .fl-node-bozwm8vk0jsx .fl-module-content .two_col_section .two_col_media a.play-btn:hover {
@@ -2814,7 +2814,7 @@
  }
 
  body .plyr__control--overlaid {
-     background-color: #e6001f;
+     background-color: #70bc63;
  }
 
  body .plyr--video .plyr__control.plyr__tab-focus,
@@ -2822,7 +2822,7 @@
  body .plyr--video .plyr__control[aria-expanded=true] {
      box-shadow: 0 0 0 0 rgba(230, 0, 31, .5);
      -webkit-box-shadow: 0 0 0 0 rgba(230, 0, 31, .5);
-     background-color: #e6001f;
+     background-color: #70bc63;
  }
 
  .fl-node-bozwm8vk0jsx .fl-module-content .two_col_section .two_col_media i {
@@ -2850,7 +2850,7 @@
  }
 
  .fl-node-jcw0n912soy8 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-jcw0n912soy8 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -2912,7 +2912,7 @@
  }
 
  .fl-node-8n0vfu45xilq .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-8n0vfu45xilq .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -2974,7 +2974,7 @@
  }
 
  .fl-node-axuy35pi1jve .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-axuy35pi1jve .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3043,7 +3043,7 @@
  }
 
  .fl-node-tghu4j6okdnm .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-tghu4j6okdnm .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3105,7 +3105,7 @@
  }
 
  .fl-node-yefhdjrv3q85 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-yefhdjrv3q85 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3179,7 +3179,7 @@
  }
 
  .fl-node-e5v1iuz0fwca .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-e5v1iuz0fwca .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3241,7 +3241,7 @@
  }
 
  .fl-node-w1yxdlsq79z5 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-w1yxdlsq79z5 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3303,23 +3303,23 @@
  }
 
  .fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .dots-common.slick-dotted .slick-dots li.slick-active button:before {
-     background: #e6001f !important;
+     background: #70bc63 !important;
  }
 
  .fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .arrow-common .slick-arrow:before {
-     color: #e6001f;
+     color: #70bc63;
  }
 
  .fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .arrow-common .slick-arrow {
-     border: 1px solid#e6001f;
+     border: 1px solid#70bc63;
  }
 
  .fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .arrow-common .slick-arrow:hover {
-     color: #e6001f;
+     color: #70bc63;
  }
 
  .fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .arrow-common .slick-arrow:hover:before {
-     color: #e6001f;
+     color: #70bc63;
  }
 
  < !-- @media(max-width:767px) {
@@ -3341,7 +3341,7 @@
  }
 
  -->.fl-node-7uyxh5ljkvm0 .fl-module-content .exhibitor-section .double-arrow.slick-arrow svg path {
-     fill: #e6001f !important;
+     fill: #70bc63 !important;
      ;
  }
 
@@ -3371,11 +3371,11 @@
  }
 
  .fl-node-jwh3bep7g1q5 .fl-module-content .featured-exhibitor .double-arrow.slick-arrow svg path {
-     fill: #e6001f !important;
+     fill: #70bc63 !important;
  }
 
  .fl-node-jwh3bep7g1q5 .fl-module-content .featured-exhibitor .dots-common.slick-dotted .slick-dots li.slick-active button:before {
-     background: #e6001f !important;
+     background: #70bc63 !important;
  }
 
  .fl-node-51y84d7hkfoj .fl-module-content .full_width_two_col_wrap .content span.pre-head {
@@ -3470,7 +3470,7 @@
  }
 
  .fl-node-awjhpdnkg9r3 .fl-module-content .feature_wrapper .double-arrow.slick-arrow svg path {
-     fill: #e6001f !important;
+     fill: #70bc63 !important;
      ;
  }
 
@@ -3507,7 +3507,7 @@
  }
 
  .fl-node-7e5b6gtw90xc .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-7e5b6gtw90xc .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3550,11 +3550,11 @@
  }
 
  .fl-node-rtx1qzji7vgn .fl-module-content .two_col_section.two_col_section_full_width .two_col_content h2.pre-head {
-     color: #e6001f !important;
+     color: #70bc63 !important;
  }
 
  .fl-node-rtx1qzji7vgn .fl-module-content .two_col_section.two_col_section_full_width .two_col_content h2 {
-     color: #e6001f !important;
+     color: #70bc63 !important;
  }
 
  .fl-node-rtx1qzji7vgn .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p {
@@ -3566,7 +3566,7 @@
  }
 
  .fl-node-rtx1qzji7vgn .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-rtx1qzji7vgn .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3612,7 +3612,7 @@
  }
 
  .fl-node-rzdi4tk8pg27 .fl-module-content .two_col_section.two_col_section_full_width {
-     background: #e6001f !important;
+     background: #70bc63 !important;
  }
 
  .fl-node-rzdi4tk8pg27 .fl-module-content .two_col_section.two_col_section_full_width {
@@ -3641,19 +3641,19 @@
  }
 
  .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section .starts_counter .starts_block {
-     border-left: 1px solid #e6001f !important;
+     border-left: 1px solid #70bc63 !important;
  }
 
  .rtl .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section .starts_counter .starts_block {
-     border-right: 1px solid #e6001f !important;
+     border-right: 1px solid #70bc63 !important;
  }
 
  .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section,
  .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section .starts_row,
  .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section .starts_row .starts_block {
-     background: #e6001f !important;
-     border-top: 1px solid #e6001f !important;
-     border-bottom: 1px solid #e6001f !important;
+     background: #70bc63 !important;
+     border-top: 1px solid #70bc63 !important;
+     border-bottom: 1px solid #70bc63 !important;
  }
 
  .fl-node-vqahxlwgzj9m .fl-module-content .counter-col-section .double-arrow.slick-arrow svg path {
@@ -3687,7 +3687,7 @@
  }
 
  .fl-node-0wx9zs3qgl4c .fl-module-content .subscribe-form {
-     background-image: url(https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/01/smebg.png );
+     background-image: url(https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/01/smebg.png );
      background-position: 100% 100%;
      background-repeat: no-repeat;
      background-size: cover;
@@ -3722,7 +3722,7 @@
  }
 
  .fl-node-51h40q6cjtxe .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-51h40q6cjtxe .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3784,7 +3784,7 @@
  }
 
  .fl-node-lrg7hs04onqi .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-lrg7hs04onqi .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3860,7 +3860,7 @@
  }
 
  .fl-node-1xedbruzhpkm .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-1xedbruzhpkm .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3932,7 +3932,7 @@
  }
 
  .fl-node-5ridqyu1vjng .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-5ridqyu1vjng .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -3994,7 +3994,7 @@
  }
 
  .fl-node-do6x9fi4zj7e .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-do6x9fi4zj7e .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -4061,7 +4061,7 @@
  }
 
  .fl-node-ge4m3rvxd18u .fl-module-content .product-buyers {
-     background-image: url(https://www.saudimachineryexpo.com/wp-content/uploads/sites/25/2024/01/bg-2.jpg );
+     background-image: url(https://www.gulfsaudiexpo.com/wp-content/uploads/sites/25/2024/01/bg-2.jpg );
      background-position: 100% 100%;
      background-repeat: no-repeat;
      background-size: cover;
@@ -4084,7 +4084,7 @@
  }
 
  .fl-node-k8c0za64th3s .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-k8c0za64th3s .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
@@ -4142,11 +4142,11 @@
  }
 
  .fl-node-pb3mzcv6uqas .fl-module-content .article_wrapper .article_box {
-     border-left: 1px solid #e6001f;
+     border-left: 1px solid #70bc63;
  }
 
  .rtl .fl-node-pb3mzcv6uqas .fl-module-content .article_wrapper .article_box {
-     border-right: 1px solid #e6001f;
+     border-right: 1px solid #70bc63;
  }
 
  .fl-node-pb3mzcv6uqas .fl-module-content .article_wrapper .article_content h3 {
@@ -4195,7 +4195,7 @@
  }
 
  .fl-node-p64xijo03by2 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content p a {
-     color: #e6001f
+     color: #70bc63
  }
 
  .fl-node-p64xijo03by2 .fl-module-content .two_col_section.two_col_section_full_width .two_col_content .wp-content ul li:before {
