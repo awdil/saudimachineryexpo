@@ -97,15 +97,7 @@
                                     href="https://forms.gulfsaudiexpo.com/Default.aspx?id=3084"
                                     target="_blank" class="primary-btn cta-white-outline"> BOOK YOUR STAND </a>
                             </div>
-                            <div class="socil-icon-wrp">
-                                <ul> 
-                                    <li> <a href="https://www.facebook.com/saudimachineryexpo" target="_blank" class="icon" aria-label="facebook"> <i class="fab fa-facebook-f"></i> </a> </li> 
-                                    <li> <a href="https://www.linkedin.com/company/saudi-machinery-expo/%7Chttps://www.linkedin.com/company/saudi-machinery-expo/" target="_blank" class="icon" aria-label="Linkedin"> <i class="fab fa-linkedin-in"></i> </a> </li> 
-                                    <li> <a href="https://www.youtube.com/@saudimachineryexpo" target="_blank" class="icon" aria-label="Youtube"> <i class="fab fa-youtube"></i> </a> </li> 
-                                    <li> <a href="https://www.gulfsaudiexpo.com/eventical" class="no-utm icon" aria-label="ical"> <i class="fas fa-calendar-alt"></i> </a> </li> 
-                                    <li> <a class="icon search-icon" href="https://www.gulfsaudiexpo.com/#" aria-label="search"><i class="fas fa-search"></i></a> </li> 
-                                </ul>
-                            </div>
+                            
                         </div>
                     </div>
                 </div> <!-- header_wrap ends --> <!-- hamburger -->
