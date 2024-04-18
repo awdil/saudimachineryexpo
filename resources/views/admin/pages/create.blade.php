@@ -324,6 +324,30 @@
 		                    </div>
 		                </div>
 					</div>
+					<div class="col-md-12">
+						<div class="card accordion accordion-rounded-stylish accordion-bordered XbannerImage" id="accordion-author">
+		                    <div class="card-header justify-content-start accordion-header" data-bs-toggle="collapse" data-bs-target="#with-author" aria-expanded="true">
+		                        <h4 class="card-title">{{ __('Banner Image') }}</h4>
+		                        <span class="accordion-header-indicator"></span>
+		                    </div>
+		                    <div class="accordion__body p-4 collapse show" id="with-author" data-bs-parent="#accordion-author">
+		                        <div class="banner-img-preview img-parent-box"> 
+
+									<img src="{{ asset('images/noimage.jpg') }}" class="avatar mb-1 img-for-onchange" alt="{{ __('Image') }}" width="100px" height="100px" title="{{ __('Image') }}"> 
+
+									<input type="hidden" name="data[PageMeta][1][title]" value="ximage" id="ContentMeta0Title">
+									<div class="form-file">
+										<input type="file" name="data[PageMeta][1][value]" class="ps-2 form-control img-input-onchange" accept=".png, .jpg, .jpeg"  id="PageMeta0Value" >
+									</div>
+                               </div>
+                                @error('data.PageMeta.0.value')
+                                    <p class="text-danger">
+                                        {{ $message }}
+                                    </p>
+                                @enderror
+		                    </div>
+		                </div>
+					</div>
 				</div>
 			</div>
 		</div>

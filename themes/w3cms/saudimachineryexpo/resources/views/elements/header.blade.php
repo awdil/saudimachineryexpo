@@ -30,16 +30,16 @@
                     <div class="header_logo_wrap">
                         <div class="header_main_logo">
                             <a href="{{ url('/') }}">
-                                <img src="{{ theme_asset('images/logo-green.png') }}" width="197"
+                                <img src="{{ theme_asset('images/logo-saudimachineryexpo.png') }}" width="197"
                                     height="120" alt="Site logo"
                                     class="sticky-logo-hide logo-desktop no-lazy-load" fetchpriority="high">
-                                <img src="{{ theme_asset('images/logo-green.png') }}" width="197"
+                                <img src="{{ theme_asset('images/logo-saudimachineryexpo.png') }}" width="197"
                                     height="120" alt="Site logo"
                                     class="sticky-logo-hide logo-mobile no-lazy-load" fetchpriority="high">
-                                <img src="{{ theme_asset('images/logo-green.png') }}" width="115"
+                                <img src="{{ theme_asset('images/logo-saudimachineryexpo.png') }}" width="115"
                                     height="70" alt="Site logo" class="sticky-logo logo-desktop no-lazy-load"
                                     fetchpriority="high">
-                                <img src="{{ theme_asset('images/logo-green.png') }}" width="115"
+                                <img src="{{ theme_asset('images/logo-saudimachineryexpo.png') }}" width="115"
                                     height="70" alt="Site logo" class="sticky-logo logo-mobile no-lazy-load"
                                     fetchpriority="hih"> </a>
                         </div>
