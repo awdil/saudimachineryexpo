@@ -19,7 +19,12 @@
                                 $menuItemClasses .= ' ' . $hasChildren;
                             @endphp
                             <li class="{{ $menuItemClasses }}">
-                                <a href="{{ $menuitem->link }}" class="nav-link">{{ $menuitem->title }}</a>
+                            <a href="{{ $menuitem->link }}" class="nav-link">
+                                @if ($menuitem->title == 'Home')  <!-- Check if the menu item's title is 'Home' -->
+                                    <i class="fa fa-home" aria-hidden="true"></i>
+                                @endif
+                                {{ $menuitem->title }}
+                            </a>
                                 @if ($menuitem->child_menu_items->isNotEmpty())
                                     <span class="menu-arrow"></span>
                                     <ul class="sub-menu">

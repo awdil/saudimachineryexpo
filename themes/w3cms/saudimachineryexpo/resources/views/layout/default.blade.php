@@ -153,6 +153,7 @@
     <script src="{{ theme_asset('js/front-scripts.js')}}" id="wpso-front-scripts-js"></script>
     <link rel="stylesheet" href="{{ theme_asset('js/plyr.css')}}">
     <script src="{{ theme_asset('js/wp-emoji-release.min.js')}}" defer=""></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-325 normal-page layout3-body fl-builder fl-builder-breakpoint-default loaded">
 
